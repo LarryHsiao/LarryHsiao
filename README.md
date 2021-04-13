@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+A programmer. Mainly develop applications on Android Platform in my day to day job.
+
+For now most of my repositories are just some learning project.(Or just nothing there you can say.)
+Except those pined on my main page you might wanna take a glance.
+
+
 <!--
 **LarryHsiao/LarryHsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
