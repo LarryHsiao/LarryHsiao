@@ -1,22 +1,11 @@
-### Hi there 👋
+### Hi
 
-A programmer. Mainly develop applications on Android Platform in my day to day job.
+My name is Larry Hsiao(蕭富云), Here are some of my practice projects. Pinned projects are some you might want to see.
 
-For now most of my repositories are just some learning project.(Or just nothing there you can say.)
-Except those pined on my main page you might wanna take a glance.
+Statistics: 
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryhsiao&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ovi" />
 
-<!--
-**LarryHsiao/LarryHsiao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=larryhsiao&theme=tokyonight" alt="mystreak"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://profile-counter.glitch.me/{larryhsiao}/count.svg" alt="larryhsiao :: Visitor's Count" />
