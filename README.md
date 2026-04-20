@@ -31,4 +31,3 @@ Code isn't output. It's a mission I chose.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=larryhsiao&theme=tokyonight" alt="streak"/>
 
-<img src="https://profile-counter.glitch.me/{larryhsiao}/count.svg" alt="larryhsiao :: Visitor's Count" />
