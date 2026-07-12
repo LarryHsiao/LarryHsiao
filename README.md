@@ -27,6 +27,4 @@ For me, writing code isn't just delivery — it's a choice: putting technology w
 
 #### Stats
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=larryhsiao&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="top langs" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=larryhsiao&theme=tokyonight" alt="streak"/>
